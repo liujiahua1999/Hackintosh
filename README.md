@@ -1,6 +1,6 @@
 
 
-# Hackintosh - macOS Big Sur 10.0.1 - Z370 + 8700K + RX 580
+# Hackintosh - macOS Big Sur 10.0.1 - Z370 + 8gen/9gen + RX 580/570
 ![SystemInfo](https://raw.githubusercontent.com/huongdp/Hackintosh/master/Screenshot/BigSur/Overview.png)
 
 # Hardware
